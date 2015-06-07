@@ -98,6 +98,10 @@ li{
     margin-top : 20px;
 }
 
+.img-container:hover{
+	cursor: pointer;
+}
+
 #slider1_container .img-container:first-child{
     margin-left : 25px;
 }
